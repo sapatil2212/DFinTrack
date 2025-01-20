@@ -14,37 +14,23 @@ DfinTrack is a modern and intuitive personal finance tracker application built t
 - **Multi-User Support**: Personalize accounts with secure user authentication.
 - **Transaction History**: View a timeline of all income and expense transactions.
 
-### 🔒 Security Features
-- **Secure Login**: Built with robust authentication and authorization mechanisms.
-- **Data Privacy**: Your financial data is stored securely with MySQL.
-
 ---
 
 ## 🛠️ Technology Stack
 
-### **Backend**
-- **Spring Boot**: Provides a powerful and scalable API framework for business logic.
-- **Spring Security**: Ensures secure user authentication and authorization.
-
 ### **Frontend**
 - **React + Vite**: Delivers a fast, modern, and responsive user interface.
 
-### **Database**
-- **MySQL**: Reliable and scalable relational database to store financial data.
-
 ---
 
-## 🏗️ Installation and Setup
+## 🏗️ Installation and Setup (Frontend)
 
 ### Prerequisites
-- **Java 17+**
 - **Node.js 16+**
-- **MySQL 8+**
-- **Maven** (for Spring Boot)
 - **Git** (optional, for cloning the repository)
 
-### Backend Setup
+### Frontend Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/dfintrack.git
-   cd dfintrack/backend
+   cd dfintrack/frontend
